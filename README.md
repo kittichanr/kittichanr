@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petchkubb&label=Profile%20views&color=0e75b6&style=flat" alt="petchkubb" /> </p>
 
-- 🌱 I’m currently learning **Apollo Client, Flutter**
+- 🌱 I’m currently learning **React, Apollo Client, Golang**
 
 - 👨‍💻 All of my projects are available at [https://petchkubb.github.io/](https://petchkubb.github.io/)
 
