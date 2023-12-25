@@ -1,14 +1,14 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://kittichanr-io.vercel.app/)
 <h1 align="center">Hi 👋, I'm Kittichan, You can call me Petch</h1>
-<h3 align="center">A passionate frontend developer from Thailand 🇹🇭</h3>
+<h3 align="center">I' am software engineer from Thailand 🇹🇭</h3>
 <img align="right" alt="coding" width="250" src="http://octodex.github.com/images/daftpunktocat-thomas.gif"/>
 <img align="right" alt="coding" width="250" src="https://camo.githubusercontent.com/57b5589bd4c5834cff0ccfafbb5dad9d3eeb390d6a31aa732cc13656801787cf/68747470733a2f2f63646e2e6265726b736d626c2e636f6d2f66696c652f6265726b736d626c2f6461667470756e6b746f6361742d6775792e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petchkubb&label=Profile%20views&color=0e75b6&style=flat" alt="petchkubb" /> </p>
 
-- 🌱 I’m currently learning **React, Apollo Client, Golang**
-
-- 👨‍💻 All of my projects are available at [https://kittichanr-io.vercel.app/](https://kittichanr-io.vercel.app/)
+- 🌱 I’m currently learning **React, Golang, Java, MySQL**
+ 
+- 👨‍💻 All of my projects are available at [https://kittichanr-blog.vercel.app/](https://kittichanr-blog.vercel.app/)  
 
 - 💬 Ask me about **React Native, ReactJS**
 
