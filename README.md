@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kittichan, You can call me Petch</h1>
 <h3 align="center">I' am software engineer from Thailand 🇹🇭</h3>
 <img align="right" alt="coding" width="250" src="http://octodex.github.com/images/daftpunktocat-thomas.gif"/>
-<img align="right" alt="coding" width="250" src="https://camo.githubusercontent.com/57b5589bd4c5834cff0ccfafbb5dad9d3eeb390d6a31aa732cc13656801787cf/68747470733a2f2f63646e2e6265726b736d626c2e636f6d2f66696c652f6265726b736d626c2f6461667470756e6b746f6361742d6775792e676966"/>
+<img align="right" alt="coding" width="250" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petchkubb&label=Profile%20views&color=0e75b6&style=flat" alt="petchkubb" /> </p>
 
