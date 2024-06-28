@@ -1,4 +1,3 @@
-[![MasterHead](https://raw.githubusercontent.com/ashleymcnamara/gophers/master/gopher_snacks.png)](https://kittichanr-io.vercel.app/)
 <h1 align="center">Hi 👋, I'm Kittichan, You can call me Petch</h1>
 <h3 align="center">I' am software engineer from Thailand 🇹🇭</h3>
 <img align="right" alt="coding" width="250" src="http://octodex.github.com/images/daftpunktocat-thomas.gif"/>
