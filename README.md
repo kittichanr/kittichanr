@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petchkubb&label=Profile%20views&color=0e75b6&style=flat" alt="petchkubb" /> </p>
 
-- 🌱 I’m currently learning **React, Rust, Golang, MySQL**
+- 🌱 I’m currently learning **Javascript, Rust**
  
 - 👨‍💻 All of my projects are available at [https://kittichanr-blog.vercel.app/](https://kittichanr-blog.vercel.app/)  
 
-- 💬 Ask me about **React Native, ReactJS**
+- 💬 Ask me about **React Native, ReactJS, Nestjs**
 
 - 📫 How to reach me **petchkubbb@gmail.com**
 
