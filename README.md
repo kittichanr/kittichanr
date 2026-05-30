@@ -18,11 +18,11 @@
 <img align="right" alt="coding" width="250" src="http://octodex.github.com/images/daftpunktocat-thomas.gif"/>
 <img align="right" alt="coding" width="250" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
 
-- 🌱 I’m currently learning **Javascript, Rust**
+- 🌱 I’m currently learning **System Design and Backend**
  
 - 👨‍💻 All of my projects are available at [https://kittichanr-blog.vercel.app/](https://kittichanr-blog.vercel.app/)  
 
-- 💬 Ask me about **React Native, ReactJS, Nestjs**
+- 💬 Ask me about **anything you want to know**
 
 - 📫 How to reach me **petchkubbb@gmail.com**
 
@@ -59,7 +59,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
  
 </td>
 
@@ -77,6 +76,9 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
 ![Actix](https://img.shields.io/badge/Actix-000000?style=flat-square&logo=actix&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
+![REST](https://img.shields.io/badge/REST-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
  
 </td>
 
@@ -99,7 +101,7 @@
 
 <tr>
  
-<td valign="top" colspan="2">
+<td valign="top">
  
 **Tools & Platforms**
 <br/>
@@ -112,7 +114,20 @@
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=white)
 </td>
 
+<td valign="top">
+
+**AI & LLM Tools**
+<br/>
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=flat-square&logo=codeium&logoColor=white)
+
+</td>
+
 </tr>
+
+
 </table>
 <br/>
 <div align="center">
