@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/-kittichanr--blog.vercel.app-black?style=flat-square&logo=vercel&logoColor=white)](https://kittichanr-blog.vercel.app/)&nbsp;
+[![Web](https://img.shields.io/badge/-kittichanr.vercel.app-black?style=flat-square&logo=vercel&logoColor=white)](https://kittichanr.vercel.app/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kittichan-ruadrewworakit-b634411b3)&nbsp;
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/petchkubbb)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/petch.ptch)&nbsp;
@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **System Design and Backend**
  
-- 👨‍💻 All of my projects are available at [https://kittichanr-blog.vercel.app/](https://kittichanr-blog.vercel.app/)  
+- 👨‍💻 All of my projects are available at [https://kittichanr.vercel.app/](https://kittichanr.vercel.app/)  
 
 - 💬 Ask me about **anything you want to know**
 
